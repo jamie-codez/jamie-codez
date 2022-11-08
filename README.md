@@ -1,3 +1,10 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamie-codez&theme=default&utcOffset=8)
+
+
 - 👋 Hi, I’m @jamie-codez
 - 👀 I’m interested in Full-Stack mobile programming...
 - 🌱 I’m currently learning ktor API development...
