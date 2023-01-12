@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Software Solutions**
 
-- 👯 I’m looking to collaborate on **Fullstack Software Dev prijects**
+- 👯 I’m looking to collaborate on **Fullstack Software Dev projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamie-codez](https://github.com/jamie-codez)
 
@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/jamiecodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jamiecodez" height="30" width="40" /></a>
-<a href="https://twitter.com/jaime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaime" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james omondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james omondi" height="30" width="40" /></a>
+<a href="https://twitter.com/JamieCodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaime" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/james omondi](https://www.linkedin.com/in/james-omondi-9b6a03207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james omondi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
