@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-codez" alt="jamie-codez" /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/JamieCodez](https://twitter.com/JamieCodez)" target="blank"><img src="https://[img.shields.io/twitter/follow/jaime?logo=twitter&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ffollow-button&psig=AOvVaw3chZHI2tHMr6yJq1lqIG2o&ust=1673636351604000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCxprPbwvwCFQAAAAAdAAAAABAI)" alt="jaime" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JamieCodez" target="blank"><img src="https://img.shields.io/twitter/follow/JamieCodez?logo=twitter&style=for-the-badge" alt="jaime" /></a> </p>
 
 - 🔭 I’m currently working on **Software Solutions**
 
