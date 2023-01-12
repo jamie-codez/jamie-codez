@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jamie Omondi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-codez&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-codez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-codez" alt="jamie-codez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jaime" target="blank"><img src="https://img.shields.io/twitter/follow/jaime?logo=twitter&style=for-the-badge" alt="jaime" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/JamieCodez](https://twitter.com/JamieCodez)" target="blank"><img src="https://img.shields.io/twitter/follow/jaime?logo=twitter&style=for-the-badge" alt="jaime" /></a> </p>
 
-- 🔭 I’m currently working on **Java Libs and Artifacts**
+- 🔭 I’m currently working on **Software Solutions**
 
-- 👯 I’m looking to collaborate on **Fullstack Software Dev**
+- 👯 I’m looking to collaborate on **Fullstack Software Dev prijects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamie-codez](https://github.com/jamie-codez)
 
-- 💬 Ask me about **Java Backend,Android Native,React JS,Node JS,Python**
+- 💬 Ask me about **Java Backend,Android Native,React JS,Node JS,Python,Kotlin,Javascript,Gradle**
 
 - 📫 How to reach me **cruiseomondi90@gmail.com**
 
