@@ -1,10 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamie-codez&theme=default&utcOffset=8)
-
-
 <h1 align="center">Hi 👋, I'm Jamie Omondi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -43,4 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-codez&show_icons=true&locale=en" alt="jamie-codez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-codez&" alt="jamie-codez" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamie-codez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamie-codez&theme=default&utcOffset=8)
 
