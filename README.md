@@ -14,8 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jamie-codez](https://github.com/jamie-codez)
 
 - 💬 Ask me about **Java Backend,Android Native,React JS,Node JS,Python,Kotlin,Javascript,Gradle**
-
-- 📫 How to reach me **cruiseomondi90@gmail.com**
+<!-- 
+- 📫 How to reach me **cruiseomondi90@gmail.com** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
