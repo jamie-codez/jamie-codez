@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-codez&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-codez" /> </p>
-![github](https://img.shields.io/github/followers/godwins3?style=plastic)
+
+![github](https://img.shields.io/github/followers/jamie-codez?style=plastic)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-codez" alt="jamie-codez" /></a> </p>
 
