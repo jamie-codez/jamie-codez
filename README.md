@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamie Omondi</h1>
-<h3 align="center">A passionate Software Developer from Kenya</h3>
+<h3 align="center">A passionate Software Engineer from Kenya, and I believe software can change the world. One line of code at a time.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-codez&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-codez" /> </p>
 
@@ -9,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/JamieCodez" target="blank"><img src="https://img.shields.io/twitter/follow/JamieCodez?logo=twitter&style=for-the-badge" alt="jaime" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Software Development**
+<!-- - 🔭 I’m currently working on **Full Stack Software Development** -->
 
-- 👯 I’m looking to collaborate on **Fullstack Software Dev projects**
+<!-- - 👯 I’m looking to collaborate on **Fullstack Software Dev projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamie-codez](https://github.com/jamie-codez)
 
-- 💬 Ask me about **Java Backend,Android Native,React JS,Node JS,Python,Kotlin,Javascript,Gradle**
+- 💬 Ask me about **Java Backend,Android Native,React JS,Node JS,Python,Kotlin,Javascript,Gradle** -->
 <!-- 
 - 📫 How to reach me **cruiseomondi90@gmail.com** -->
 
