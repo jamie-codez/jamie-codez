@@ -1,50 +1,106 @@
-<h1 align="center">Hi 👋, I'm Jamie Omondi</h1>
-<h3 align="center">A passionate Software Engineer from Kenya, and I believe software can change the world. One line of code at a time.</h3>
+<!-- TYPING ANIMATION HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jamie+Omondi!;Backend+%7C+DevOps+%7C+Mobile+Engineer;Kotlin+%7C+FastAPI+%7C+Next.js+%7C+Terraform+%7C+AI/ML;Always+building+things+that+scale+🚀" alt="Typing SVG" />
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-codez&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-codez" /> </p>
+### 👨‍💻 About Me
 
-![github](https://img.shields.io/github/followers/jamie-codez?style=plastic)
+```txt
+💼 DevOps & Software Engineer | SaaS Architect | Tech Founder  
+🌍 Working across backend, infrastructure, and mobile app ecosystems  
+📌 Passionate about developer tools, automation, and performance  
+🚀 Current focus: Scaling platforms with Kubernetes + Terraform on AWS
+````
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-codez" alt="jamie-codez" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/JamieCodez" target="blank"><img src="https://img.shields.io/twitter/follow/JamieCodez?logo=twitter&style=for-the-badge" alt="jaime" /></a> </p>
+### 🛠️ Tech Stack
 
-<!-- - 🔭 I’m currently working on **Full Stack Software Development** -->
+```txt
+💻 Languages: Kotlin • Python • TypeScript • Bash • PHP • SQL  
+📦 Backend: FastAPI • NestJS • Spring Boot • Vert.x • Laravel  
+📱 Mobile: Jetpack Compose • Android SDK  
+🌐 Frontend: Next.js • TailwindCSS • React  
+☁️ Cloud & DevOps: AWS • Docker • Kubernetes • Helm • Terraform • GitHub Actions  
+🛠 Tools: PostgreSQL • Redis • Prisma • Jooq • Firebase • OpenAPI • Flyway
+```
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=python,kotlin,ts,js,php,java,html,css,tailwind,bash,git,cpp,c,go" /> <br/> 
+<img src="https://skillicons.dev/icons?i=nextjs,vite,react,nestjs,fastapi,flask,spring,laravel,express,bun" /> <br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,mongodb,prisma" /> <br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,githubactions,jenkins,nginx,maven,gradle,androidstudio" /> <br/>
+<img src="https://skillicons.dev/icons?i=kafka,arduino,rabbitmq" /> <br />
+</p>
 
-<!-- - 👯 I’m looking to collaborate on **Fullstack Software Dev projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/jamie-codez](https://github.com/jamie-codez)
+### 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jamie-codez&theme=darkhub&row=1&column=9" /> </p>
 
-- 💬 Ask me about **Java Backend,Android Native,React JS,Node JS,Python,Kotlin,Javascript,Gradle** -->
-<!-- 
-- 📫 How to reach me **cruiseomondi90@gmail.com** -->
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📊 GitHub Stats & Activity
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/jamiecodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jamiecodez" height="30" width="40" /></a>
-<a href="https://twitter.com/JamieCodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaime" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/james omondi](https://www.linkedin.com/in/james-omondi-9b6a03207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james omondi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamie-codez&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-codez&theme=radical" alt="GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamie-codez&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamie-codez&theme=react-dark&custom_title=GitHub+Commit+Activity" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### ⏰ Commit Timing
+
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/jamie-codez?chart=3dbar&format=svg">
 </p>
 
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🚀 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamie-codez&show_icons=true&locale=en&layout=compact" alt="jamie-codez" /></p>
+| Project                             | Tech                        | Description                                          |
+| ----------------------------------- | --------------------------- | ---------------------------------------------------- |
+| 🎉 **Guestly**                      | NestJS • Next.js • Firebase | RSVP and Event Management Platform                   |
+| ⚙️ **Vert.x Auth**                  | Kotlin • Vert.x • JWT       | Scalable JWT Authentication for microservices        |
+| 🧩 **Redis Helm Chart**             | Kubernetes • Helm • EKS     | Redis Cluster with replication, autoscaling, secrets |
+| 📊 **Video Streaming**              | NestJS • HLS • React        | Netflix-style video streaming w/ pre-buffering       |
+| 📦 **Docker Registry + Watchtower** | K8s • CI/CD                 | Auto-deploy Docker builds in multi-node cluster      |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-codez&show_icons=true&locale=en" alt="jamie-codez" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-codez&" alt="jamie-codez" /></p>
+### 📬 Let's Connect
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamie-codez&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamie-codez&theme=default&utcOffset=8)
+* 🧑‍💻 [Portfolio Website](#)
+* 💼 [LinkedIn](https://linkedin.com/in/james-omondi)
+* 𝕏 [Twitter](https://x.com/JamieCodez)
+* 📫 Email: [Jamie Omondi](mailto:cruiseomondi90@gmail.com)
 
+---
+
+### 🧠 Fun Facts
+
+* 💡 I love deploying things to production at 2 AM 🛠️
+* ⚙️ I automate everything. Even things I do once.
+* 🌍 I build with global scale in mind from day one.
+
+---
+
+<i>💡 Want to collab or work together? Feel free to reach out — I love solving real-world problems with code.</i>
