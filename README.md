@@ -1,7 +1,9 @@
 <!-- TYPING ANIMATION HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jamie+Omondi!;Backend+%7C+DevOps+%7C+Mobile+Engineer;Kotlin+%7C+FastAPI+%7C+Next.js+%7C+Terraform+%7C+AI/ML;Always+building+things+that+scale+🚀" alt="Typing SVG" />
-</p>
+<code align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Jamie+Omondi!;Backend+%7C+DevOps+%7C+Mobile+Engineer;Kotlin+%7C+FastAPI+%7C+Next.js+%7C+Terraform+%7C+AI/ML;Always+building+things+that+scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</code>
 
 ---
 
