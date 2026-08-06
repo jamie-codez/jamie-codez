@@ -89,7 +89,7 @@
 * 🧑‍💻 [Portfolio Website](https://www.jamesomondi.dev)
 * 💼 [LinkedIn](https://linkedin.com/in/james-omondi)
 * 𝕏 [Twitter](https://x.com/JamieCodez)
-* 📫 Email: [Jamie Omondi](mailto:cruiseomondi90@gmail.com)
+* 📫 [Jamie Omondi](mailto:cruiseomondi90@gmail.com)
 
 ---
 
