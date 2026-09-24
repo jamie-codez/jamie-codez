@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 ```txt
-💼 DevOps & Software Engineer | SaaS Architect | Tech Founder  
+💼 DevSecOps | Cloud Architect | Software Engineer | SaaS Architect | Tech Founder  
 🌍 Working across backend, infrastructure, and mobile app ecosystems  
 📌 Passionate about developer tools, automation, and performance  
 🚀 Current focus: Scaling platforms with Kubernetes + Terraform on AWS
@@ -18,11 +18,11 @@
 
 ```txt
 💻 Languages: Kotlin • Python • TypeScript • Bash • PHP • SQL  
-📦 Backend: FastAPI • NestJS • Spring Boot • Vert.x • Laravel  
+📦 Backend: FastAPI • NestJS • Spring Boot • Vert.x • Laravel • Phalcon • Quarkus ...  
 📱 Mobile: Jetpack Compose • Android SDK  
 🌐 Frontend: Next.js • TailwindCSS • React  
-☁️ Cloud & DevOps: AWS • Docker • Kubernetes • Helm • Terraform • GitHub Actions  
-🛠 Tools: PostgreSQL • Redis • Prisma • Jooq • Firebase • OpenAPI • Flyway
+☁️ Cloud & DevOps: AWS • GCP • Tencent • Alibaba • Docker • Kubernetes • Helm • Terraform • Ansible • GitHub Actions • Jenkins  
+🛠 Tools: PostgreSQL • MySQL • Mariadb • Oracle • MSQL • Redis • Prisma • Jooq • Firebase • OpenAPI • Graphql • Flyway
 ```
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=python,kotlin,ts,js,php,java,html,css,tailwind,bash,git,cpp,c,go" /> <br/> 
